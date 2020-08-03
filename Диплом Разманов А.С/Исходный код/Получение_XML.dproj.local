@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.565,=D:\Разманов А.С.(дипломник)\Исходный код\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,C:\Users\razma\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\razma\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,D:\Projects\Разманов А.С (дипломник)\Исходный код\Project1.dproj=D:\Разманов А.С.(дипломник)\.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,D:\Разманов А.С.(дипломник)\.dproj=D:\Разманов А.С.(дипломник)\Получение_XML.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,=C:\Users\razma\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,=D:\Разманов А.С.(дипломник)\Исходный код\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
